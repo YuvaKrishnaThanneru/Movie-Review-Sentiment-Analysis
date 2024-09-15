@@ -1,5 +1,6 @@
 <div align="center">
   <h1 style="color:#8a2be2; margin-right: 20px;">Movie Review Sentiment Analysis</h1>
+  <img src="https://github.com/user-attachments/assets/73266d33-ddfb-4a45-87ea-555b0b7ca292" width="270">
 </div>
 
 ## Overview
